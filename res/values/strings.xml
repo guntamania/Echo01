@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Echo01Activity!</string>
+    <string name="app_name">Echo01</string>
+    <string name="post">post it</string>
+    <string name="echo">echo here</string>
+    <string name="echoa">echo it</string>
+
+</resources>
